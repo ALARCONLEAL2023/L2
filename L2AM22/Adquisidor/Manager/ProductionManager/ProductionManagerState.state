@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ManagerStateMemento xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpecificationChangeStateList>
+    <SpecificationChangeStateMemento>
+      <MachineCode>Line2_Entrance</MachineCode>
+      <IdBatch>0</IdBatch>
+      <HasSpecificationChange>false</HasSpecificationChange>
+      <ChangeIsAccepted>false</ChangeIsAccepted>
+    </SpecificationChangeStateMemento>
+    <SpecificationChangeStateMemento>
+      <MachineCode>Line2_NDT</MachineCode>
+      <IdBatch>0</IdBatch>
+      <HasSpecificationChange>false</HasSpecificationChange>
+      <ChangeIsAccepted>false</ChangeIsAccepted>
+    </SpecificationChangeStateMemento>
+    <SpecificationChangeStateMemento>
+      <MachineCode>Line2_NDTProduction</MachineCode>
+      <IdBatch>0</IdBatch>
+      <HasSpecificationChange>false</HasSpecificationChange>
+      <ChangeIsAccepted>false</ChangeIsAccepted>
+    </SpecificationChangeStateMemento>
+    <SpecificationChangeStateMemento>
+      <MachineCode>Line2_NDTScrap</MachineCode>
+      <IdBatch>0</IdBatch>
+      <HasSpecificationChange>false</HasSpecificationChange>
+      <ChangeIsAccepted>false</ChangeIsAccepted>
+    </SpecificationChangeStateMemento>
+    <SpecificationChangeStateMemento>
+      <MachineCode>Line2_INVI</MachineCode>
+      <IdBatch>0</IdBatch>
+      <HasSpecificationChange>false</HasSpecificationChange>
+      <ChangeIsAccepted>false</ChangeIsAccepted>
+    </SpecificationChangeStateMemento>
+  </SpecificationChangeStateList>
+</ManagerStateMemento>

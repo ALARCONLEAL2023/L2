@@ -1,0 +1,1362 @@
+*Backup*
+.svn
+.bak
+.pdb
+.copy.conf
+.copy
+*Thumbs.db*
+*logs
+*vshost
+*Copy.xml
+*Copy
+*Copia*
+*COPY*
+*.LOG*
+*.LOGS*
+*.pdb*
+*.exe_*
+*old*
+*.log . *
+*.zip
+*/obj*
+*DELETE*
+*.manifest
+*.bak
+*.lnk
+*_.xaml*
+*.xls
+*.xaml
+*.png
+*.xml
+*.map
+*.css
+*.gif
+*.js
+*.aspx
+*.resx
+*.ascx
+*.lic
+*.bmp
+*.cshtml
+*.asax
+*.JPG
+*.htc
+*.Master
+*.rsp
+*.compiled
+*.targets
+*.ico
+*.bat
+*.svc
+*.dll
+*.suo
+*.svg
+!.config
+*vshost*
+*wpfwindow*
+*.txt
+*config_bak*
+*Binaries*
+*.cache
+*.sql
+*.json
+*.wof*
+*.ttf
+*.eot
+*.exe
+*.html
+*.datasource
+*.xlsx
+*.rdlc
+*.nlp
+*.cs
+*.csproj
+*.sil
+*.sitemap
+*.cc
+*.ora
+*.mdf
+*.asmx
+*.scons
+*.csproj.user
+*.dll*
+*.sln
+*.scc
+!Adquisidor/Tenaris/Applications/View/Forum/*
+
+!Tenaris.Manager.Host.exe.config
+!Tenaris.Manager.Host.exe
+!Tenaris.Manager.Host
+!Clientes/Tenaris/Applications/View/Desktop/Menu.xml
+!Clientes/Tenaris/Applications/View/PIP/TamsaProduccion.exe
+
+!Adquisidor/Tenaris/Applications/Service/ServiceMS/Tenaris.Library.ConnectionMonitor.dll
+!Adquisidor/Tenaris/Applications/Service/ServiceMS/Tenaris.Library.Proxy.dll
+!Adquisidor/Tenaris/Applications/Service/ServiceMS/Tenaris.Manager.Forum.Shared.dll
+!Adquisidor/Tenaris/Applications/Service/ServiceMS/Tenaris.Manager.ProcessExecutor.dll
+!Adquisidor/Tenaris/Applications/Service/ServiceMS/Tenaris.Manager.ProcessExecutor.Shared.dll
+
+!Adquisidor/Tenaris/Applications/Service/Specification/Tenaris.Library.ConnectionMonitor.dll
+!Adquisidor/Tenaris/Applications/Service/Specification/Tenaris.Library.Proxy.dll
+!Adquisidor/Tenaris/Applications/Service/Specification/Tenaris.Manager.Forum.Shared.dll
+!Adquisidor/Tenaris/Applications/Service/Specification/Tenaris.Manager.ProcessExecutor.dll
+!Adquisidor/Tenaris/Applications/Service/Specification/Tenaris.Manager.ProcessExecutor.Shared.dll
+
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Library.ConnectionMonitor.dll
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Library.Proxy.dll
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Manager.Forum.Shared.dll
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Manager.ProcessExecutor.dll
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Manager.ProcessExecutor.Shared.dll
+
+
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Library.ConnectionMonitor.dll
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Library.Proxy.dll
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Manager.Forum.Shared.dll
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Manager.ProcessExecutor.dll
+!Adquisidor/Tenaris/Applications/Manager/VDIManager/Tenaris.Manager.ProcessExecutor.Shared.dll
+
+
+!Adquisidor/Tenaris/Applications/Manager/InterruptSend/Tenaris.Library.ConnectionMonitor.dll
+!Adquisidor/Tenaris/Applications/Manager/InterruptSend/Tenaris.Library.Proxy.dll
+!Adquisidor/Tenaris/Applications/Manager/InterruptSend/Tenaris.Manager.Forum.Shared.dll
+!Adquisidor/Tenaris/Applications/Manager/InterruptSend/Tenaris.Manager.ProcessExecutor.dll
+!Adquisidor/Tenaris/Applications/Manager/InterruptSend/Tenaris.Manager.ProcessExecutor.Shared.dll
+!Adquisidor/Tenaris/Applications/Manager/InterruptSend/Tenaris.Library.Shared.dll
+
+Clientes/Tenaris/Applications/View/OrdendeCarga/Tenaris.Tamsa.HRM.Fat2.View.Entrance_client.exe.config
+Clientes/Tenaris/Applications/View/OrdendeCarga/Tenaris.Tamsa.HRM.Fat2.View.Entrance.exe.config_bak
+
+*.keep
+*.pubxml
+*.htm
+*.ashx
+*.otf
+*.less
+*.scss
+*.ldf
+*.settings
+*.disco
+*.wsdl
+
+*.ps1
+*.p7s
+*.pp
+*.nupkg
+*.xdt
+*.md
+*.props
+*.svcinfo
+*.xsd
+*.resources
+*.tlog
+*.transform
+
+*.app.config*
+*Web_*
+*packages.config*
+*.release.config*
+*views*
+*account*
+*.debug.config*
+
+*.sqlite
+*.editorconfig
+*.svcmap
+*.pdf
+*.psd1
+*.psm1
+*.rtf
+*._
+*.min
+Line1/Servidor web/Tenaris/Applications/Web/MaintenanceToolsManager/wwwroot/lib/bootstrap/LICENSE
+Line1/Servidor web/Tenaris/Applications/Web/CargaAlMill/.vs/Tenaris.Report.Web.ProductionAllMachins/config/applicationhost.config
+*.so
+*.dylib
+*.licx
+*.mht
+*.config_
+CuttOff/Servidor web/Tenaris/Applications/Util/Debug/CyberSecurityDeploy.exe.config
+Amalog21/Servidor web/Tenaris/Applications/Util/Debug/CyberSecurityDeploy.exe.config
+Line1/Servidor web/Tenaris/Applications/Manager/OCV_OCR_Mail_Report/OCV_OCR_Mail_Report.exe.config2
+*.pssym
+*.keep
+*.pubxml
+*.htm
+*.ashx
+*.otf
+*.less
+*.scss
+*.ldf
+*.settings
+*.disco
+*.wsdl
+
+*.ps1
+*.p7s
+*.pp
+*.nupkg
+*.xdt
+*.md
+*.props
+*.svcinfo
+*.xsd
+*.resources
+*.tlog
+*.transform
+
+*.app.config*
+*Web_*
+*packages.config*
+*.release.config*
+*views*
+*account*
+*.debug.config*
+
+*.sqlite
+*.editorconfig
+*.svcmap
+*.pdf
+*.psd1
+*.psm1
+*.rtf
+*._
+*.min
+Line1/Servidor web/Tenaris/Applications/Web/MaintenanceToolsManager/wwwroot/lib/bootstrap/LICENSE
+Line1/Servidor web/Tenaris/Applications/Web/CargaAlMill/.vs/Tenaris.Report.Web.ProductionAllMachins/config/applicationhost.config
+*.so
+*.dylib
+*.licx
+*.mht
+*.config_
+CuttOff/Servidor web/Tenaris/Applications/Util/Debug/CyberSecurityDeploy.exe.config
+Amalog21/Servidor web/Tenaris/Applications/Util/Debug/CyberSecurityDeploy.exe.config
+Line1/Servidor web/Tenaris/Applications/Manager/OCV_OCR_Mail_Report/OCV_OCR_Mail_Report.exe.config2
+*.pssym
+CuttOff/Servidor web/Tenaris/Applications/Util/notepadplusplus-portable-8-5-3/plugins/Config/converter.ini
+CuttOff/Servidor web/Tenaris/Applications/Util/notepadplusplus-portable-8-5-3/updater/LICENSE
+CuttOff/Servidor web/Tenaris/Applications/Web/L1/ManufacturingBME21/WebTubingT3.config
+CuttOff/Servidor web/Tenaris/Applications/Web/L1/ManufacturingBME21/WebCasingT3.config
+CuttOff/Servidor web/Tenaris/Applications/Web/L1/ManufacturingBME21/WebTamsa2.config
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/services
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/smi_modules
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/wka
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/diameter/dictionary.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/dc.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/itunes.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/mscml.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/pocsettings.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/presence.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/reginfo.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/rlmi.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/rss.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/smil.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/watcherinfo.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/xcap-caps.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtds/xcap-error.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/profiles/Bluetooth/colorfilters
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/profiles/Bluetooth/preferences
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/profiles/Classic/colorfilters
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/profiles/No Reassembly/preferences
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/protobuf/sparkplug_b.proto
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/custom.includes
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.3com
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.3gpp
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.3gpp2
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.acc
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.acme
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.actelis
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.aerohive
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.airespace
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.alcatel
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.alcatel.esam
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.alcatel.sr
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.alcatel-lucent.aaa
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.alteon
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.altiga
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.alvarion
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.alvarion.wimax.v2_2
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.apc
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.aptilo
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.aptis
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.arbor
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.aruba
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.ascend
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.asn
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.audiocodes
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.avaya
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.azaire
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.bay
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.bintec
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.bluecoat
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.bristol
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.broadsoft
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.brocade
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.bskyb
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.bt
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.cablelabs
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.cabletron
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.camiant
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.chillispot
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.cisco
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.cisco.asa
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.cisco.bbsm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.cisco.vpn3000
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.cisco.vpn5000
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.citrix
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.clavister
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.cnergee
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.colubris
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.columbia_university
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.compat
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.compatible
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.cosine
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.dante
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.dellemc
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.dhcp
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.digium
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.dlink
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.dragonwave
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.efficientip
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.eltex
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.enterasys
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.epygi
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.equallogic
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.ericsson
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.ericsson.ab
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.ericsson.packet.core.networks
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.extreme
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.f5
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.fdxtended
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.fortinet
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.foundry
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.freedhcp
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.freeradius
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.freeradius.internal
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.freeswitch
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.gandalf
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.garderos
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.gemtek
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.h3c
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.hp
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.huawei
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.iana
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.identity_engines
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.iea
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.infoblox
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.infonet
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.ipunplugged
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.issanni
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.itk
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.jradius
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.juniper
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.karlnet
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.kineto
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.lancom
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.livingston
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.localweb
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.lucent
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.manzara
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.meinberg
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.meraki
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.merit
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.meru
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.microsemi
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.microsoft
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.mikrotik
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.motorola
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.motorola.wimax
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.navini
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.netscreen
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.networkphysics
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.nexans
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.nokia
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.nokia.conflict
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.nomadix
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.nortel
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.ntua
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.openser
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.packeteer
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.paloalto
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.patton
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.perle
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.propel
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.prosoft
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.proxim
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.purewave
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.quiconnect
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.quintum
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.redcreek
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc2865
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc2866
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc2867
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc2868
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc2869
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc3162
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc3576
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc3580
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc4072
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc4372
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc4603
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc4675
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc4679
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc4818
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc4849
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc5090
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc5176
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc5447
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc5580
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc5607
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc5904
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc6519
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc6572
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc6677
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc6911
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc6929
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc6930
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc7055
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc7155
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc7268
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc7499
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.rfc7930
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.riverbed
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.riverstone
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.roaringpenguin
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.ruckus
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.ruggedcom
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.sangoma
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.sg
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.shasta
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.shiva
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.siemens
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.slipstream
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.sofaware
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.sonicwall
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.springtide
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.starent
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.starent.vsa1
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.surfnet
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.symbol
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.t_systems_nova
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.telebit
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.telkom
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.terena
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.trapeze
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.travelping
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.tropos
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.ukerna
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.unisphere
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.unix
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.usr
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.utstarcom
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.valemount
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.verizon
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.versanet
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.vqp
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.walabi
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.waverider
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.wichorus
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.wimax
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.wimax.alvarion
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.wimax.wichorus
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.wispr
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.xedia
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.xylan
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.yubico
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.zeus
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.zte
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/dictionary.zyxel
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/radius/README.radius_dictionary
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ACCESSBIND-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ACCESSBIND-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ADSL2-LINE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ADSL2-LINE-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ADSL-LINE-EXT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ADSL-LINE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ADSL-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/AGENTX-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/AGGREGATE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ALARM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/APM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/APPC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/APPLETALK-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/APPLICATION-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/APPN-DLUR-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/APPN-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/APPN-TRAP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/APS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ARC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ATM2-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ATM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ATM-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/BGP4-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/BLDG-HVAC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/BRIDGE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/CAPWAP-BASE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/CAPWAP-DOT11-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/CHARACTER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/CIRCUIT-IF-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/CLNS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/COFFEE-POT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/COPS-CLIENT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/COPS-PR-SPPI
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/COPS-PR-SPPI-TC
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DECNET-PHIV-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DIAL-CONTROL-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DIFFSERV-CONFIG-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DIFFSERV-DSCP-TC
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DIFFSERV-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DIFFSERV-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DIRECTORY-SERVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DISMAN-EVENT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DISMAN-EXPRESSION-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DISMAN-NSLOOKUP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DISMAN-PING-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DISMAN-SCHEDULE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DISMAN-SCRIPT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DISMAN-TRACEROUTE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DLSW-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DNS-RESOLVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DNS-SERVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOCS-BPI-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOCS-CABLE-DEVICE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOCS-IETF-BPI2-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOCS-IETF-CABLE-DEVICE-NOTIFICATION-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOCS-IETF-QOS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOCS-IETF-SUBMGT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOCS-IF-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOT12-IF-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOT12-RPTR-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOT3-EPON-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DOT3-OAM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DS0BUNDLE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DS0-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DS1-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DS3-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DSA-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DSMON-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/DVB-RCS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/EBN-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/EFM-CU-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ENTITY-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ENTITY-SENSOR-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ENTITY-STATE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ENTITY-STATE-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ETHER-CHIPSET-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/EtherLike-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ETHER-WIS
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FCIP-MGMT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FC-MGMT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FDDI-SMT73-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FEEDBACK-FRAMEWORK-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FEEDBACK-FRAMEWORK-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FIBRE-CHANNEL-FE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/Finisher-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FLOW-METER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FORCES-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FRAME-RELAY-DTE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FRAMEWORK-FEEDBACK-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FRAMEWORK-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FRAMEWORK-TC-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FR-ATM-PVC-SERVICE-IWF-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FR-MFR-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FRNETSERV-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/FRSLD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/GMPLS-LABEL-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/GMPLS-LSR-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/GMPLS-TC-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/GMPLS-TE-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/GSMP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/HC-ALARM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/HCNUM-TC
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/HC-PerfHist-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/HC-RMON-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/HDSL2-SHDSL-LINE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/HOST-RESOURCES-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/HOST-RESOURCES-TYPES
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/HPR-IP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/HPR-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-ADDRESS-FAMILY-NUMBERS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-CHARSET-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-FINISHER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-GMPLS-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANAifType-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-IPPM-METRICS-REGISTRY-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-ITU-ALARM-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-LANGUAGE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-MALLOC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-MAU-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-PRINTER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-PWE3-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANA-RTPROTO-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IANATn3270eTC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ietf-inet-types.yang
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ietf-netconf-monitoring.yang
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ietf-yang-types.yang
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IF-CAP-STACK-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IFCP-MGMT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IF-INVERTED-STACK-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IF-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IGMP-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/INET-ADDRESS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/INTEGRATED-SERVICES-GUARANTEED-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/INTEGRATED-SERVICES-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/INTERFACETOPN-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPATM-IPMC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPFIX-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPFIX-SELECTOR-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IP-FORWARD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPMCAST-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPMROUTE-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPOA-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPS-AUTH-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPSEC-POLICY-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPSEC-POLICY-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPSEC-SPD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IP-TE-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IP-TE-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPV6-FLOW-LABEL-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPV6-ICMP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPV6-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPV6-MLD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPV6-TC
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPV6-TCP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IPV6-UDP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IRTF-NMRG-SMING
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IRTF-NMRG-SMING-EXTENSIONS
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/IRTF-NMRG-SMING-TYPES
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ISCSI-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ISDN-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ISIS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ISNS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ITU-ALARM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ITU-ALARM-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/Job-Monitoring-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/L2TP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/LANGTAG-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/LMP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/LOAD-BALANCING-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/LOAD-BALANCING-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MALLOC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MAU-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/META-POLICY-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/META-POLICY-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MIDCOM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MIOX25-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MIP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MOBILEIPV6-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/Modem-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-FTN-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-L3VPN-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-LC-ATM-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-LC-FR-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-LDP-ATM-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-LDP-FRAME-RELAY-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-LDP-GENERIC-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-LDP-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-LSR-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-SETUP-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-SETUP-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-TC-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MPLS-TE-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MSDP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/MTA-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/NAT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/NETWORK-SERVICES-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/NHRP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/NOTIFICATION-LOG-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/NTPv4-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/OPT-IF-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/OSPF-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/OSPF-TRAP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/OSPFV3-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PARALLEL-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PARTITION-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PARTITION-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/P-BRIDGE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PerfHist-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PIM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PIM-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PINT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PKTC-IETF-MTA-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PKTC-IETF-SIG-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/POLICY-BASED-MANAGEMENT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/POLICY-DEVICE-AUX-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/POLICY-DEVICE-AUX-MIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/POLICY-FRAMEWORK-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/POLICY-FRAMEWORK-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/POWER-ETHERNET-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PPP-BRIDGE-NCP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PPP-IP-NCP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PPP-LCP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PPP-SEC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PPVPN-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PPVPN-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/Printer-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PTOPO-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PW-ATM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PW-CEP-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PW-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PW-TC-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/PW-TDM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/Q-BRIDGE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/QOS-POLICY-802-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/QOS-POLICY-802-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/QOS-POLICY-IP-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/QOS-POLICY-IP-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RADIUS-ACC-CLIENT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RADIUS-ACC-SERVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RADIUS-AUTH-CLIENT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RADIUS-AUTH-SERVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RADIUS-DYNAUTH-CLIENT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RADIUS-DYNAUTH-SERVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RAQMON-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RDBMS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1065-SMI
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1155-SMI
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1158-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC-1212
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1213-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC-1215
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1269-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1271-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1285-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1316-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1381-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1382-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RFC1414-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RIPv2-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RMON2-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RMON-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ROHC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ROHC-RTP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/ROHC-UNCOMPRESSED-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RS-232-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RSERPOOL-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RSTP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RSVP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RSVP-PCC-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RSVP-PCC-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/RTP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SCSI-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SCTP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SFLOW-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SIP-COMMON-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SIP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SIP-SERVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SIP-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SIP-UA-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SLAPM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SLS-NEGOTIATION-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SLS-NEGOTIATION-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SMON-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNA-NAU-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNA-SDLC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-COMMUNITY-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-FRAMEWORK-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-MPD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-NOTIFICATION-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-PROXY-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-REPEATER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-SSH-TM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-TARGET-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-TLS-TM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-TSM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-USER-BASED-SM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-USM-AES-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-USM-DH-OBJECTS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMPv2-CONF
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMPv2-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMPv2-SMI
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMPv2-TC
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMPv2-TM
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMPv2-USEC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SNMP-VIEW-BASED-ACM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SONET-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SOURCE-ROUTING-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SSPM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/SYSAPPL-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-FC-FABRIC-ADDR-MGR-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-FC-FABRIC-CONFIG-SERVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-FC-FABRIC-LOCK-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-FC-FSPF-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-FC-NAME-SERVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-FC-ROUTE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-FC-RSCN-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-FC-VIRTUAL-FABRIC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-FC-ZONE-SERVER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/T11-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TCP-ESTATS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TCPIPX-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TCP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TE-LINK-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TIME-AGGREGATE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TN3270E-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TN3270E-RT-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TOKENRING-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TOKEN-RING-RMON-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TOKENRING-STATION-SR-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TRANSPORT-ADDRESS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TRIP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TRIP-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-IBR-AGENT-CAPABILITIES
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-IBR-LINUX-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-IBR-LINUX-NETFILTER-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-IBR-NFS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-IBR-PING-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-IBR-PROC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-IBR-TEST-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-IBR-TNM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-IBR-XEN-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUBS-SMI
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/TUNNEL-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/UDPLITE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/UDP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/UMTS-PIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/UMTS-PIB-orig
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/UPS-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/URI-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/VDSL2-LINE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/VDSL2-LINE-TC-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/VDSL-LINE-EXT-MCM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/VDSL-LINE-EXT-SCM-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/VDSL-LINE-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/VPN-TC-STD-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/VRRP-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/snmp/mibs/WWW-MIB
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/tpncp/tpncp.dat
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_ar.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_bg.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_ca.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_cs.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_da.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_de.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_en.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_es.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_fi.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_fr.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_gd.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_he.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_hu.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_it.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_ja.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_ko.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_lv.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_pl.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_ru.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_sk.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_tr.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_uk.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/translations/qt_zh_TW.qm
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/wimaxasncp/dictionary.dtd
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/Data/dfilters
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/Data/recent
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/Data/recent_common
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/Data/settings/WiresharkPortable64Settings.ini
+CuttOff/Servidor web/Tenaris/Applications/Web/L1/WebServiceBRN/PrecompiledApp.config
+CuttOff/Servidor web/Tenaris/Applications/Web/L1/WebServiceBRN/.vs/WebServiceBRN/config/applicationhost.config
+CuttOff/Servidor web/Tenaris/Applications/Web/L1/WebServiceBRN/_UpgradeReport_Files/UpgradeReport.xslt
+Amalog21/Servidor web/Tenaris/Applications/Util/notepadplusplus-portable-8-5-3/plugins/Config/converter.ini
+Amalog21/Servidor web/Tenaris/Applications/Util/notepadplusplus-portable-8-5-3/updater/LICENSE
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/AppInfo/appinfo.ini
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/AppInfo/pac_installer_log.ini
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/AppInfo/Launcher/WiresharkPortable64.ini
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/AUTHORS-SHORT
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/cfilters
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/colorfilters
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/console.lua
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dfilter_macros
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dfilters
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/dtd_gen.lua
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/enterprises.tsv
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/init.lua
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/manuf
+Amalog21/Servidor web/Tenaris/Applications/Util/WiresharkPortable64/App/Wireshark/pdml2html.xsl
+WMS/Servidor web/Tenaris/Applications/Util/Debug/CyberSecurityDeploy.exe.config
+WMS/Servidor web/Tenaris/Applications/Util/notepadplusplus-portable-8-5-3/plugins/Config/converter.ini
+WMS/Servidor web/Tenaris/Applications/Util/notepadplusplus-portable-8-5-3/updater/LICENSE
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/AppInfo/appinfo.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/AppInfo/installer.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/AppInfo/pac_installer_log.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/AppInfo/Launcher/custom.nsh
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/AppInfo/Launcher/WinMergePortable.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/DefaultData/settings/WinMerge.reg
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/ColorSchemes/Default.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/ColorSchemes/Midnight.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/ColorSchemes/Modern.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/ColorSchemes/Solarized Dark.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/ColorSchemes/Solarized Light.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-7-GnuWin32.README
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/AUTHORS
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/ChangeLog
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/INSTALL
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/NEWS
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/README
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/pc/djgpp/README
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Commands/GnuWin32/manifest/patch-2.5.9-7-bin.mft
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Commands/GnuWin32/manifest/patch-2.5.9-7-bin.ver
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Docs/WinMerge.chm
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Docs/WinMergeJapanese.chm
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/ADAMulti.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/ASPNET.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/CSharp_loose.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/Delphi.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/FileFilter.tmpl
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/Frontpage.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/MASM.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/Merge_GnuC_loose.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/Merge_VB_loose.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/Merge_VC_loose.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/SourceControl.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/Symbian.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Filters/XML_html.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Docs/Sample.tpl
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Languages/de.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Languages/fr.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Languages/gl.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Languages/heksedit.lng
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Languages/ja.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Languages/nl.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Languages/pl.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Languages/sk.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/Frhed/Languages/sl.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/MergePlugins/ApplyPatch.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/MergePlugins/CompareMSExcelFiles.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/MergePlugins/CompareMSPowerPointFiles.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/MergePlugins/CompareMSVisioFiles.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/MergePlugins/CompareMSWordFiles.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/MergePlugins/editor addin.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/MergePlugins/IgnoreLeadingLineNumbers.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/MergePlugins/insert datetime.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge/MergePlugins/PrediffLineFilter.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/ColorSchemes/Default.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/ColorSchemes/Midnight.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/ColorSchemes/Modern.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/ColorSchemes/Solarized Dark.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/ColorSchemes/Solarized Light.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-7-GnuWin32.README
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/AUTHORS
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/ChangeLog
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/INSTALL
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/NEWS
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/README
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/pc/djgpp/README
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Commands/GnuWin32/manifest/patch-2.5.9-7-bin.mft
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Commands/GnuWin32/manifest/patch-2.5.9-7-bin.ver
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Docs/WinMerge.chm
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Docs/WinMergeJapanese.chm
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/ADAMulti.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/ASPNET.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/CSharp_loose.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/Delphi.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/FileFilter.tmpl
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/Frontpage.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/MASM.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/Merge_GnuC_loose.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/Merge_VB_loose.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/Merge_VC_loose.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/SourceControl.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/Symbian.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Filters/XML_html.flt
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Docs/Sample.tpl
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Languages/de.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Languages/fr.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Languages/gl.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Languages/heksedit.lng
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Languages/ja.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Languages/nl.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Languages/pl.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Languages/sk.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Frhed/Languages/sl.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Arabic.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Basque.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Brazilian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Bulgarian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Catalan.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ChineseSimplified.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ChineseTraditional.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Corsican.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Croatian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Czech.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Danish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Dutch.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Finnish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/French.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Galician.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/German.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Greek.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Hungarian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Italian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Japanese.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Korean.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Lithuanian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Norwegian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Persian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Polish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Portuguese.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Romanian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Russian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Serbian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Sinhala.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Slovak.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Slovenian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Spanish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Swedish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Turkish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/Ukrainian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Arabic.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Basque.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Brazilian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Bulgarian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Catalan.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/ChineseSimplified.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/ChineseTraditional.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Corsican.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Croatian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Czech.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Danish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Dutch.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Finnish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/French.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Galician.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/German.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Greek.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Hungarian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Italian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Japanese.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Korean.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Lithuanian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Norwegian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Persian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Polish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Portuguese.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Romanian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Russian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Serbian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Sinhala.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Slovak.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Slovenian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Spanish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Swedish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Turkish.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Ukrainian.po
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/MergePlugins/ApplyPatch.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/MergePlugins/CompareMSExcelFiles.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/MergePlugins/CompareMSPowerPointFiles.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/MergePlugins/CompareMSVisioFiles.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/MergePlugins/CompareMSWordFiles.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/MergePlugins/editor addin.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/MergePlugins/IgnoreLeadingLineNumbers.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/MergePlugins/insert datetime.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/App/WinMerge64/MergePlugins/PrediffLineFilter.sct
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/Data/PortableApps.comLauncherRuntimeData-WinMergePortable.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/Data/settings/WinMerge.reg
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/Data/settings/WinMergePortableSettings.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/Other/Source/AppNamePortable.ini
+WMS/Servidor web/Tenaris/Applications/Util/WinMergePortable/Other/Source/PortableApps.comInstallerCustom.nsh
+WMS/Servidor web/Tenaris/Applications/Web/HandHeldProgram/_UpgradeReport_Files/UpgradeReport.xslt
+WMS/Servidor web/Tenaris/Applications/Web/HandHeldProgram/App_Code/DsHandheld.xss
+*.config2
+*.exe
+
+Line1/Servidor web/Tenaris/Applications/Web/CargaAlMill/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/CargaAlMill/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/CargaAlMill/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/VBCSCompiler.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/CargaAlMill/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/CargaAlMill/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/CargaAlMill/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/CargaAlMill/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/VBCSCompiler.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/ReportProductionAllMachins/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/ReportProductionAllMachins/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/ReportProductionAllMachins/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/VBCSCompiler.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/ReportProductionAllMachins/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/ReportProductionAllMachins/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/ReportProductionAllMachins/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.exe.config
+Line1/Servidor web/Tenaris/Applications/Web/ReportProductionAllMachins/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/VBCSCompiler.exe.config
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/AusDeployment/AusDeployment.exe.config
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/AusDeployment/SharpPlink-Win32.svnExe
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/notepadplusplus-portable-8-5-3/plugins/Config/converter.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/notepadplusplus-portable-8-5-3/updater/LICENSE
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/OPLConfigLocalGenerator/OPLConfigLocalGenerator.exe.config
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/AppInfo/appinfo.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/AppInfo/installer.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/AppInfo/pac_installer_log.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/AppInfo/Launcher/custom.nsh
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/AppInfo/Launcher/WinMergePortable.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/DefaultData/settings/WinMerge.reg
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/ColorSchemes/Default.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/ColorSchemes/Midnight.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/ColorSchemes/Modern.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/ColorSchemes/Solarized Dark.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/ColorSchemes/Solarized Light.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-7-GnuWin32.README
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/AUTHORS
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/ChangeLog
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/INSTALL
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/NEWS
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/README
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/pc/djgpp/README
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Commands/GnuWin32/manifest/patch-2.5.9-7-bin.mft
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Commands/GnuWin32/manifest/patch-2.5.9-7-bin.ver
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Docs/WinMerge.chm
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Docs/WinMergeJapanese.chm
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/ADAMulti.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/ASPNET.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/CSharp_loose.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/Delphi.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/FileFilter.tmpl
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/Frontpage.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/MASM.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/Merge_GnuC_loose.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/Merge_VB_loose.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/Merge_VC_loose.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/SourceControl.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/Symbian.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Filters/XML_html.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Docs/Sample.tpl
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Languages/de.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Languages/fr.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Languages/gl.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Languages/heksedit.lng
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Languages/ja.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Languages/nl.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Languages/pl.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Languages/sk.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/Frhed/Languages/sl.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/MergePlugins/ApplyPatch.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/MergePlugins/CompareMSExcelFiles.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/MergePlugins/CompareMSPowerPointFiles.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/MergePlugins/CompareMSVisioFiles.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/MergePlugins/CompareMSWordFiles.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/MergePlugins/editor addin.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/MergePlugins/IgnoreLeadingLineNumbers.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/MergePlugins/insert datetime.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge/MergePlugins/PrediffLineFilter.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/ColorSchemes/Default.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/ColorSchemes/Midnight.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/ColorSchemes/Modern.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/ColorSchemes/Solarized Dark.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/ColorSchemes/Solarized Light.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-7-GnuWin32.README
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/AUTHORS
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/ChangeLog
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/INSTALL
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/NEWS
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/README
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Commands/GnuWin32/contrib/patch/2.5.9/patch-2.5.9-src/pc/djgpp/README
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Commands/GnuWin32/manifest/patch-2.5.9-7-bin.mft
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Commands/GnuWin32/manifest/patch-2.5.9-7-bin.ver
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Docs/WinMerge.chm
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Docs/WinMergeJapanese.chm
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/ADAMulti.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/ASPNET.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/CSharp_loose.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/Delphi.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/FileFilter.tmpl
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/Frontpage.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/MASM.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/Merge_GnuC_loose.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/Merge_VB_loose.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/Merge_VC_loose.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/SourceControl.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/Symbian.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Filters/XML_html.flt
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Docs/Sample.tpl
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Languages/de.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Languages/fr.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Languages/gl.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Languages/heksedit.lng
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Languages/ja.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Languages/nl.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Languages/pl.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Languages/sk.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Frhed/Languages/sl.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Arabic.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Basque.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Brazilian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Bulgarian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Catalan.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ChineseSimplified.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ChineseTraditional.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Corsican.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Croatian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Czech.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Danish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Dutch.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Finnish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/French.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Galician.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/German.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Greek.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Hungarian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Italian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Japanese.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Korean.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Lithuanian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Norwegian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Persian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Polish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Portuguese.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Romanian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Russian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Serbian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Sinhala.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Slovak.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Slovenian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Spanish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Swedish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Turkish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/Ukrainian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Arabic.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Basque.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Brazilian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Bulgarian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Catalan.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/ChineseSimplified.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/ChineseTraditional.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Corsican.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Croatian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Czech.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Danish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Dutch.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Finnish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/French.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Galician.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/German.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Greek.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Hungarian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Italian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Japanese.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Korean.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Lithuanian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Norwegian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Persian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Polish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Portuguese.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Romanian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Russian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Serbian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Sinhala.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Slovak.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Slovenian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Spanish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Swedish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Turkish.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/Languages/ShellExtension/Ukrainian.po
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/MergePlugins/ApplyPatch.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/MergePlugins/CompareMSExcelFiles.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/MergePlugins/CompareMSPowerPointFiles.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/MergePlugins/CompareMSVisioFiles.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/MergePlugins/CompareMSWordFiles.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/MergePlugins/editor addin.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/MergePlugins/IgnoreLeadingLineNumbers.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/MergePlugins/insert datetime.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/App/WinMerge64/MergePlugins/PrediffLineFilter.sct
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/Data/PortableApps.comLauncherRuntimeData-WinMergePortable.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/Data/settings/WinMerge.reg
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/Data/settings/WinMergePortableSettings.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/Other/Source/AppNamePortable.ini
+Amalog21/Adquisidor/Tenaris/Aplications/Utils/WinMergePortable/Other/Source/PortableApps.comInstallerCustom.nsh
+*.zip
+CuttOff/Adquisidor/Tenaris/Applications/Service/Tenaris.View.Toolset/Tenaris.Service.Security.TestClient.exe.config
+CuttOff/Adquisidor/Tenaris/Applications/Service/Tenaris.View.Toolset/Tenaris.Service.Security.TestServer.exe.config
+*.dacpac
+*.config_Forum
+CuttOff/Clientes/Tenaris/Applications/View/Cortadoras21/Tamsa.View.Cutoff.Tools/Tenaris.Tamsa.View.CutOff.Tools2.exe.config
+CuttOff/Clientes/Tenaris/Applications/View/Cortadoras21/Tamsa.View.Cutoff.Tools/Tenaris.Tamsa.View.WMS.Tools.exe.config
+L2Cort/Clientes/Cortadora 24/Tenaris/Applications/View/Tamsa.View.Cutoff.Tools/Tenaris.Tamsa.View.CutOff.Tools2.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRulesVDI23/Tenaris.Manager.BusinessRules.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRulesVDI24/Tenaris.Manager.BusinessRules.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/Correos Identificacion/Tamsa.Manager.Identification.TestMailSender.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/IdentificationAM22_GenericVisionInterace/Tamsa.Manager.Identification.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/IdentificationPAC22/DBImageViewer.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/IdentificationPAC22/Tamsa.Manager.Identification.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/IdentificationPH22_NuevaInterface/Tamsa.Manager.Identification.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/IdentificationVDI24/Tamsa.Manager.Identification.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/OrderReplicator/OrderReplicator.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/Tamsa.Utility.LACOPipesNotifier/Tamsa.Utility.LACOPipesNotifier.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Vdi/Tenaris.Manager.Vdi.V2.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/Tenaris.Tamsa.Manager.OrderMonitored/Tenaris.Tamsa.Manager.OrderMonitored.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/TraceabilityValidation_REA20/Tamsa.Common.Manager.TraceabilityValidation.2.0.Manager.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Service/SynchronyFAT2/Tenaris.Manager.SynchronyFAT2.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Service/Toolset/Tenaris.Service.Toolset.Host.exe.config
+L2Cort/Servidor Web/Tenaris/Applications/Web/WebServiceBRN/PrecompiledApp.config
+L2Cort/Servidor Web/Tenaris/Applications/Web/WebServiceBRN/_UpgradeReport_Files/UpgradeReport.xslt
+L2Trk/Adquisidor/Tenaris/Applications/Manager/Alarm/Tenaris.Manager.Alarm.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRules/Tenaris.Manager.BusinessRules.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRules/Tenaris.Manager.BusinessRules.Host_BAK.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRules_PF_PAC22/Tenaris.Manager.BusinessRules.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRulesHandshakeAlarms/Tenaris.Manager.BusinessRules.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRulesHpt/Tenaris.Manager.BusinessRules.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRulesPAC/Tenaris.Manager.BusinessRules.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRulesSEA23/Tenaris.Manager.BusinessRules.Host.exe.config
+L2Trk/Adquisidor/Tenaris/Applications/Manager/BusinessRulesSEA24/Tenaris.Manager.BusinessRules.Host.exe.config
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Services/svrRealTimeGraph/app.config
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_ACCIONAMIENTOS.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_ADD_IDENT.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_ADD_PRESETS.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_BORRA_GRAFICAS.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_COLADAS_OP.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_DELETE_IDENT.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_EDIT_IDENT.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_ENVIA_ETRACK.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_AVAILABLE_PRESETS.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_COPIED_TO_PROD.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_CUR_GRAPH_EVAL_DATA.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_CUR_GRAPH_STATUS.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_CUR_IDENT_DATA.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_GRAPH_DATA.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_GRAPH_TEST_ZONE.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_GRAPHS_RECORDS.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_GRAPHS_TUBES_COUNT.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_IDENT_COUNT.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_IDENT_RECORDS.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_ORDER_DATA.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_PRESETS_FROM_IT.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_PRESETS_HISTORY.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_PRIVILEGES.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_PRODUCT_OF_ORDER.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_GET_PRODUCTION.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_INSERTA_GRAFICA.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_INSERTA_PRODUCCION.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_LOG.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_RECUPERA_GRAFICAS.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_REEMPLAZA_IDENT_CONF.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_REENVIA_ETRACK.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_SEND_PRESETS.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_SET_TRACE_OF_ORDER.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_TUBOS_OP.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_VALI_LAST_ERROR.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_VERIFICA_ETRACK.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_VERY_ALREADY_CAPTURED.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_VERY_SAME_PRODUCT.prc
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Stored Procedures/SP_PH_VERY_TUBE_IN_ETRACK.prc
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Manager.CutOff/Tenaris.Manager.Cutoff.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Manager_SendMail/Tenaris.Manager.Mail.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tamsa.Manager.EntranceHost/EntranceHost.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tamsa.Manager.Samples/Tenaris.Manager.Samples.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Alarm/Tenaris.Manager.Alarm.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.BusinessRules.IT/Tenaris.Manager.BusinessRules.IT.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Command/Tenaris.Manager.Command.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.FAT2.CropEnd/Tenaris.Manager.FAT2.CropEnd.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Handshake/Tenaris.Manager.Handshake.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Interruption/Tenaris.Manager.Interruption.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Preset/Tenaris.Manager.Preset.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Production/Tenaris.Manager.Production.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Shift/Tenaris.Manager.Shift.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Tda/Tenaris.Manager.Tda.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Tracking/Tenaris.Manager.Tracking.Host.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Tracking/Tenaris.Manager.Tracking.TestClient.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.Tracking/Tenaris.Manager.Tracking.TrackingBrowser.exe.config
+L2Cort/Adquisidor/Tenaris/Applications/Manager/Tenaris.Manager.TrkLinker/Tenaris.Tamsa.Manager.TrkLinker.Host.exe.config
+L2Cort/Servidor Web/Tenaris/Applications/Web/Users/obj/Debug/Package/PackageTmp/Web.config
+L2Cort/Servidor Web/Tenaris/Applications/Web/Users/obj/Debug/TransformWebConfig/assist/Web.config
+L2Cort/Servidor Web/Tenaris/Applications/Web/Users/obj/Debug/TransformWebConfig/original/Web.config
+L2Cort/Servidor Web/Tenaris/Applications/Web/Users/obj/Debug/TransformWebConfig/transformed/Web.config
+L2Am22/Servidor Web/Tenaris/Applications/Web/EtrackPipeValidationService/_UpgradeReport_Files/UpgradeReport.xslt
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/_UpgradeReport_Files/UpgradeReport.xslt
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Common/obj/Debug/Common.projdata
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Common/obj/Debug/Common.projdata1
+L2Am22/Servidor Web/Tenaris/Applications/Web/Module_Tools/Common/obj/Release/Common.projdata
